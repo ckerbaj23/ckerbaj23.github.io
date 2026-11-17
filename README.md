@@ -4,12 +4,12 @@ Personal portfolio and blog for Charles Kerbaj — finance student at Bryant Uni
 
 ## What's here
 
-- **Homepage** (`index.html`) — hero section, project portfolio, animated financial ticker splash screen, dark mode
-- **Blog posts** — build logs and write-ups for personal projects:
-  - `post-printer.html` — Daily Report Printer
-  - `post-trading.html` — Trading systems and strategy
-  - `post-youtube.html` — YouTube automation project
-- **Resume** — `Charles_Kerbaj_Resume.pdf`
+- **Homepage** (`index.html`): hero, featured project (Bage Journal), project list, skills, experience, writing, contact. Splash screen plays once per visit; dark mode by default; phone menu
+- **Blog posts**: build logs and write-ups for personal projects:
+  - `post-printer.html`: Daily Report Printer
+  - `post-trading.html`: Trading is a mental game
+  - `post-youtube.html`: YouTube analytics tool
+- **Resume**: `Charles_Kerbaj_Resume.pdf`, made from `resume.html` (edit that file, open it in Chrome, then Print > Save as PDF, Letter size, no headers and footers)
 
 ## Stack
 
