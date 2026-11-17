@@ -4,7 +4,8 @@ Personal portfolio and blog for Charles Kerbaj — finance student at Bryant Uni
 
 ## What's here
 
-- **Homepage** (`index.html`): hero, featured project (Bage Journal), project list, skills, experience, writing, contact. Splash screen plays once per visit; dark mode by default; phone menu
+- **Homepage** (`index.html`): hero with a Bage Journal screenshot, Bage Journal showcase (click the three tabs to switch screens), project cards, about, experience timeline, writing, contact. Splash screen plays once per visit; dark mode by default; phone menu
+- **Screenshots** (`assets/`): Bage Journal filled with its built-in demo trades, never real trades
 - **Blog posts**: build logs and write-ups for personal projects:
   - `post-printer.html`: Daily Report Printer
   - `post-trading.html`: Trading is a mental game
@@ -15,7 +16,7 @@ Personal portfolio and blog for Charles Kerbaj — finance student at Bryant Uni
 
 Vanilla HTML, CSS, and JavaScript. No frameworks, no build step — just static files served via GitHub Pages.
 
-**Fonts:** Cormorant Garamond (serif) + Jost (sans-serif) via Google Fonts
+**Fonts:** Instrument Serif (headings) + Geist (text) + Geist Mono (labels) via Google Fonts
 
 ## Running locally
 
